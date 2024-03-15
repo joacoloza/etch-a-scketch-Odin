@@ -61,3 +61,17 @@
    
 }
 
+.footer{
+    border-radius: 6px;
+    background-color:cornflowerblue;
+    align-items: center;
+    padding: 5px;
+    border: #F9FAF8;
+    
+}
+
+.footer a {
+    color:white;
+    font-size: bolder;
+    text-decoration: none;
+}
